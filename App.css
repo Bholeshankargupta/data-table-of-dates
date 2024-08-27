@@ -1,0 +1,23 @@
+.App {
+    text-align: center;
+  }
+  
+  table {
+    width: 50%;
+    margin: 20px auto;
+    border-collapse: collapse;
+  }
+  
+  table, th, td {
+    border: 1px solid black;
+  }
+  
+  th, td {
+    padding: 10px;
+    text-align: center;
+  }
+  
+  button {
+    margin-left: 10px;
+  }
+  
